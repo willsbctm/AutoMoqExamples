@@ -1,0 +1,6 @@
+c:\users\william\documents\visual studio 2017\Projects\AutoMoqExamples\AutoMoqExamples\bin\Debug\AutoMoqExamples.exe.config
+c:\users\william\documents\visual studio 2017\Projects\AutoMoqExamples\AutoMoqExamples\bin\Debug\AutoMoqExamples.exe
+c:\users\william\documents\visual studio 2017\Projects\AutoMoqExamples\AutoMoqExamples\bin\Debug\AutoMoqExamples.pdb
+c:\users\william\documents\visual studio 2017\Projects\AutoMoqExamples\AutoMoqExamples\obj\Debug\AutoMoqExamples.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2017\Projects\AutoMoqExamples\AutoMoqExamples\obj\Debug\AutoMoqExamples.exe
+c:\users\william\documents\visual studio 2017\Projects\AutoMoqExamples\AutoMoqExamples\obj\Debug\AutoMoqExamples.pdb
