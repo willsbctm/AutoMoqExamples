@@ -1,4 +1,5 @@
 ﻿using AutoMoq;
+using AutoMoqExamples.Web.Models;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
@@ -6,7 +7,7 @@ using Moq;
 namespace AutoMoqExamples.Tests
 {
     [TestClass]
-    public class CriacaoDeClassesComSuasDependencias
+    public class CriacaoDeClassesComSuasDependenciasTests
     {
         [TestMethod]
         public void AoInstanciarClasseConcretaDeveCriarMockDeSuasDependencias()

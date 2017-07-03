@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMoqExamples", "AutoMoqExamples\AutoMoqExamples.csproj", "{4D0412C8-304C-4B14-8761-61FA2FEBA89E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMoqExamples.Tests", "AutoMoqExamples.Tests\AutoMoqExamples.Tests.csproj", "{05EE00D9-5BA3-4F67-B346-3009BE8B3CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMoqExamples.Web", "AutoMoqExamples.Web\AutoMoqExamples.Web.csproj", "{CA606F26-4AD4-4C31-8D6A-8CCCF57D5714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D0412C8-304C-4B14-8761-61FA2FEBA89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D0412C8-304C-4B14-8761-61FA2FEBA89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D0412C8-304C-4B14-8761-61FA2FEBA89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D0412C8-304C-4B14-8761-61FA2FEBA89E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05EE00D9-5BA3-4F67-B346-3009BE8B3CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05EE00D9-5BA3-4F67-B346-3009BE8B3CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05EE00D9-5BA3-4F67-B346-3009BE8B3CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05EE00D9-5BA3-4F67-B346-3009BE8B3CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA606F26-4AD4-4C31-8D6A-8CCCF57D5714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA606F26-4AD4-4C31-8D6A-8CCCF57D5714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA606F26-4AD4-4C31-8D6A-8CCCF57D5714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA606F26-4AD4-4C31-8D6A-8CCCF57D5714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
